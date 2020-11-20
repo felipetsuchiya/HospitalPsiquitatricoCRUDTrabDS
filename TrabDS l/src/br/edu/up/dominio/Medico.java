@@ -33,7 +33,7 @@ public class Medico {
 		
 	}
 	
-	public Medico(String nome, int idade, String especialidade) {
+	public Medico(String nome, String especialidade) {
 		super();
 		this.nome = nome;
 		this.especialidade = especialidade;
